@@ -1,6 +1,6 @@
 // sum.js
-function sum(a, b) {
-    return a + b;
+function sum(A, B) {
+    return A + B;
   }
  module.exports=sum;
   
