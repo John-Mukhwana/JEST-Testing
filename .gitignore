@@ -3,3 +3,7 @@
 .bin
 .modules.yaml
 .pnpm
+
+json
+.bin 
+bin
