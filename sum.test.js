@@ -1,5 +1,4 @@
 // sum.test.js
-import {sum} from './sum';
 
 const sum = require('./sum');
 
